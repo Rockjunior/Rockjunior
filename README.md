@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:ff00ff&height=200&section=header&text=Hi%20I'm%20Rodgers%20Maragia%20(RockJunior)%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:ff00ff&height=200&section=header&text=Hi%20I'm%20Rodgers%20Maragia%20(RockJunior)%20👋&fontSize=30&fontColor=ffffff&animation=twinkling" />
 </p>
 
 
