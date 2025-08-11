@@ -48,11 +48,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/RockJunior/RockJunior/blob/output/snake.svg)
-
----
-
 ## 🎯 Fun Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
