@@ -49,7 +49,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/RockJunior/RockJunior/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RockJunior/RockJunior/blob/output/snake.svg)
 
 ---
 
