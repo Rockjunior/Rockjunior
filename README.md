@@ -1,61 +1,79 @@
-<h1 align="center">Hi 👋, I'm RockJunior</h1>
-<h3 align="center">💻 Developer | 📊 Data Enthusiast | 🤖 AI Explorer</h3>
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RockJunior&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/Rockjunior?tab=followers">
-    <img src="https://img.shields.io/github/followers/RockJunior?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:ff00ff&height=200&section=header&text=Hi%20I'm%20RockJunior%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<!-- Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=Developer+%7C+AI+Enthusiast;Open-Source+Contributor;Lifelong+Learner;Let's+Build+Something+Awesome!" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **AI & Web Development projects**
-- 🌱 I’m learning **.NET, Flask APIs, and Advanced AI tools**
-- 💬 Ask me about **Python, JavaScript, AI, and backend development**
-- ⚡ Fun fact: I can debug faster with coffee ☕
+## 👨‍💻 About Me
+- 🔭 Currently working on **AI, .NET, Flask APIs, and Web Apps**
+- 🌱 Learning **backend development and AI projects**
+- 💬 Ask me about **Python, JavaScript, AI, and problem-solving**
+- ⚡ Fun fact: **I debug faster with coffee ☕**
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RockJunior&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RockJunior&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RockJunior&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RockJunior&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RockJunior&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RockJunior&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 📚 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockJunior&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockJunior&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/RockJunior/RockJunior/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Fun Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rodgers-maragia-20a8b5265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/EmarRoman" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" /></a>
-  <a href="mailto:r28081999m@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836.svg?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rodgers-maragia-20a8b5265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/EmarRoman" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:r28081999m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
-## 🎯 Fun Section: Quote of the Day
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffcc&height=100&section=footer"/>
 </p>
