@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rockjunior&theme=highcontrast&hide_border=true&border_radius=10)
+
 <!--
 **Rockjunior/Rockjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
