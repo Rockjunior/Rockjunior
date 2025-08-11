@@ -1,9 +1,9 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:ff00ff&height=120&section=header&text=Hi%20I'm%20Rodgers%20Maragia&fontSize=35&fontColor=ffffff&animation=twinkling" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:ff00ff&height=60&section=header&text=(RockJunior)%20👋&fontSize=25&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:ff00ff&height=200&section=header&fontColor=ffffff&animation=twinkling" />
 </p>
+<h2 align="center">Hi I'm Rodgers Maragia</h2>
+<h3 align="center">(RockJunior) 👋</h3>
 
 
 <!-- Typing Intro -->
