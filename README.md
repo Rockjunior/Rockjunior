@@ -13,9 +13,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **AI, .NET, Flask APIs, and Web Apps**
-- 🌱 Learning **backend development and AI projects**
-- 💬 Ask me about **Python, JavaScript, AI, and problem-solving**
+- 🔭 Currently working on **Mathematics, Open Source Educational Materials, Statistics, R-Instat**
+- 🌱 Learning **backend development and AI projects, .NET, Flask APIs, and Web Apps**
+- 💬 Ask me about **R, R-Instat, Mathematics, Statistics, STACK, Maxima, WEbWork, C, Python, JavaScript, AI, and problem-solving**
 - ⚡ Fun fact: **I debug faster with coffee ☕**
 
 ---
