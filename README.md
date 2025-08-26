@@ -7,7 +7,7 @@
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=Developer+%7C+AI+Enthusiast;Mathematician+%7C+Statistician;Open-Source+Contributor;Lifelong+Learner;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=90EE90&center=true&vCenter=true&width=800&lines=Developer+%7C+AI+Enthusiast;Mathematician+%7C+Statistician;Open-Source+Contributor;Lifelong+Learner;Let's+Build+Something+Awesome!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Mathematics, Open Source Educational Materials, Statistics, R-Instat**
 - 🌱 Learning **backend development and AI projects, .NET, Flask APIs, and Web Apps**
-- 💬 Ask me about **R, R-Instat, Mathematics, Statistics, STACK, Maxima, WEbWork, C, Python, JavaScript, AI, and problem-solving**
+- 💬 Ask me about **R, R-Instat, Mathematics, Statistics, STACK, Maxima, WebWork, C, Python, JavaScript, AI, and problem-solving**
 - ⚡ Fun fact: **I debug faster with coffee ☕**
 
 ---
@@ -44,7 +44,7 @@
 
 ## 📚 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockJunior&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockjunior&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
