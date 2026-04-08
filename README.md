@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on R-Instat Development and R packages<br>👯 I’m looking to collaborate on Software Development particularly using JS and Python<br>🤝 I’m looking for help with Python (Django) for Software Development<br>🌱 I’m currently learning Learning Django and API Integrations<br>💬 Ask me about Data Analysis with R, SPSS, Stata, Python and SQL<br>⚡ Fun fact Nothing beats power of grit
+🔭 I’m currently upskilling and learning predictive modeling using R and Python.<br>👯 I’m looking to collaborate on Software Development particularly using JS and Python<br>🤝 I’m looking for help with Python (Django) for Software Development<br>🌱 I’m currently learning Learning Django and API Integrations<br>💬 Ask me about Data Analysis with R, SPSS, Stata, Python and SQL<br>⚡ Fun fact Nothing beats power of grit
 
 
 ## 🌐 Socials:
